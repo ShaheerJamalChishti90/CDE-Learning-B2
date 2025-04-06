@@ -1,0 +1,9 @@
+We are writing in the file named as saylani.txtWe are adding another line in the file named as saylani.txt
+
+In all the coding so far in this book, none of the data has been preserved. We
+created variables, lists, dictionaries, and class instances that contained
+information, but as soon as the computer was turned off, all of it disappeared.
+You know how to save a word processing document or spreadsheet, but
+how do you save data processed by Python?
+It starts with a line of Python code:
+Writing a line while using with operationsFirst File
