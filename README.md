@@ -1,4 +1,5 @@
-# <h1 style="color: violet;">CDE-B2</h1> 
+<h1 style="color: violet;">CDE-B2</h1>
+<hr>
 
 #### THIS REPO CONTAINS THE LEARNINS OF
     > 1. Python
